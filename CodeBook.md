@@ -6,7 +6,7 @@ The run_analysis.R script reads in the experiment data and performs a number of 
 
 Both the processed test and training datasets are read in and merged into one data frame.
 Activity variable and former dataset are merged.
-A second independent tidy dataset is created with the average of each variable for each activity and subject, and written to a file, script.txt.
+A second independent tidy dataset is created with the average of each variable for each activity and subject, and written to a file, data_final.txt.
 Each line in run_analysis.R is commented. Reference the file for more information on this process. 
 
 Output file columns
